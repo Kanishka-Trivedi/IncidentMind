@@ -71,7 +71,7 @@ Both of us just stopped and read through the logs for a minute when we noticed i
 
 ### Neural Evolution Convergence (15 Steps)
 
-![Neural Evolution Convergence](results/Phase1_Comparison_Curve.png)
+![Neural Evolution Convergence](WhatsApp%20Image%202026-04-26%20at%203.37.46%20PM%20(1).jpeg)
 
 *The GRPO-trained policy (cyan) stays well above the untrained baseline (dashed red) throughout. Notice the reward floor rising after step 8 — that's where forensic behaviour started locking in.*
 
@@ -79,7 +79,7 @@ Both of us just stopped and read through the logs for a minute when we noticed i
 
 ### Diagnostic Accuracy Evolution (Phase 1)
 
-![Diagnostic Accuracy Evolution](results/Phase1_Diagnostic_Accuracy.png)
+![Diagnostic Accuracy Evolution](WhatsApp%20Image%202026-04-26%20at%203.37.46%20PM.jpeg)
 
 *The "Breakthrough Convergence" marker is where the agent first consistently chose evidence-gathering tools before attempting remediation. The gap from the near-zero untrained baseline is hard to argue with.*
 
